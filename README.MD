@@ -4,10 +4,10 @@ This project aims to create an automated tool for managing the inventory of a wh
 
 ### Features
 The system supports full CRUD (Create, Read, Update, Delete) operations, allowing users to:
-•	Create: Add new records for products, customers, and other relevant entities.
-•	Read: Retrieve and view existing data.
-•	Update: Modify details of existing records.
-•	Delete: Remove records from the system.
+- Create: Add new records for products, customers, and other relevant entities.
+- Read: Retrieve and view existing data.
+- Update: Modify details of existing records.
+- Delete: Remove records from the system.
 
 ### Technologies Used
 The "Wholesale Management System" is built using the following technologies:

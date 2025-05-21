@@ -1,5 +1,5 @@
-#Wholesale Management System
-##Project Description
+# Wholesale Management System
+## Project Description
 This project aims to create an automated tool for managing the inventory of a wholesaler. Its primary goal is to streamline and automate inventory control processes within a wholesale business. The system is designed to provide a comprehensive solution for managing products, customers, and overall inventory, targeting business owners and employees who need efficient data management and operational capabilities.
 
 ###Features

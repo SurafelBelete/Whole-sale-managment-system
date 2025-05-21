@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=Java-final-project" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.login=sqp_f0895b9585692f9ce3e9a6e3cdfae344817caddb"

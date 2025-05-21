@@ -42,12 +42,14 @@ Prerequisites
 Usage
 To use the Wholesale Management System:
 1.	Start the Application: When the project runs, the login page will appear first.
-2.	Login: Enter your credentials to log into the system.
-3.	Navigation: As a wholesaler, you can then navigate to the Customers or Products sections from the main interface.
-4.	Manage Customers: 
+![Screenshot of Wholesale Management System GUI](assets/image1.png)
+2.	Navigation: As a wholesaler, you can then navigate to the Customers or Products sections from the main interface.
+3.	Manage Customers: 
 o	Click on the "Customers" option.
 o	Here, you will be able to perform full CRUD operations on customer records (add new customers, view existing ones, update their details, or delete them).
-5.	Manage Products: 
+![Screenshot of Customer's Page](assets/image2.png)
+4.	Manage Products: 
 o	You can click back from the customer section to return to the main navigation.
 o	Select the "Products" option.
 o	In the product section, you can perform CRUD operations on product inventory, including adding new products, deleting old ones, updating stock quantities and prices, and searching for specific products.   
+![Screenshot of Products Page](assets/image3.png)

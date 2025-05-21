@@ -13,9 +13,9 @@ The system supports full CRUD (Create, Read, Update, Delete) operations, allowin
 The "Wholesale Management System" is built using the following technologies:
 - Frontend: Java GUI
 - Backend & Database: SQL Relational Database Management System (RDBMS)
-- Java Development Kit: `#52d1c0`gjdk-8u151-windows-x64
-- Database Management Tool: `#52d1c0` SSMS-Setup-ENU (SQL Server Management Studio)
-- JDBC Driver: `#52d1c0` mysql-connector-java-5.1.42-bin (for MySQL database connectivity)
+- Java Development Kit: gjdk-8u151-windows-x64
+- Database Management Tool: SSMS-Setup-ENU (SQL Server Management Studio)
+- JDBC Driver: mysql-connector-java-5.1.42-bin (for MySQL database connectivity)
 
 ### Database Schema
 The database schema includes tables to manage various aspects of the wholesale business. Based on the provided information, key tables are:
@@ -34,10 +34,10 @@ The database schema includes tables to manage various aspects of the wholesale b
 
 ### Setup and Installation
 ### Prerequisites
-- Java Development Kit (JDK) - `#52d1c0` gjdk-8u151-windows-x64 or compatible version.
+- Java Development Kit (JDK) -  *** gjdk-8u151-windows-x64 *** or compatible version.
 - A SQL RDBMS (e.g., MySQL or SQL Server) installed and configured.
-- SQL Server Management Studio (SSMS) - `#52d1c0` SSMS-Setup-ENU (if using SQL Server).
-- MySQL Connector/J - `#52d1c0` mysql-connector-java-5.1.42-bin (if using MySQL).
+- SQL Server Management Studio (SSMS) - *** SSMS-Setup-ENU ***(if using SQL Server).
+- MySQL Connector/J - *** mysql-connector-java-5.1.42-bin ***(if using MySQL).
 
 ### Usage
 ### To use the Wholesale Management System:
